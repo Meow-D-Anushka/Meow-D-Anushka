@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Internships-✅-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BVCOE%20KKharghar-Sem%202%20CSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BVCOE%20KKharghar-Sem%203%20CSE-blue?style=for-the-badge" />
 </div>
 
 ## 👨‍💻 About Me
